@@ -1,0 +1,10 @@
+flask
+gunicorn
+opencv-contrib-python
+numpy
+matplotlib
+imutils
+requests
+scikit-learn
+tensorflow
+keras
